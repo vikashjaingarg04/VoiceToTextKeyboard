@@ -1,10 +1,3 @@
-//
-//  VoiceToTextKeyboardView.swift
-//  VoiceToTextKeyboardExtension
-//
-//  Created by Ankit Jain on 24/08/25.
-//
-
 import Foundation
 import SwiftUI
 
@@ -36,13 +29,14 @@ struct VoiceToTextKeyboardView: View {
                                 }
                             }
                         )
-                        .scaleEffect(recorder.state == .recording ? 1.1 : 1.0)
-                        .animation(.easeInOut, value: recorder.state)
 
                     Image(systemName: "mic.fill")
                         .font(.system(size: 34))
                         .foregroundColor(.white)
                 }
+                // 🎯 अब पूरा ZStack (dot + mic) ek साथ scale hoga
+                .scaleEffect(recorder.state == .recording ? 1.1 : 1.0)
+                .animation(.easeInOut, value: recorder.state)
             }
             // Press & hold gesture
             .simultaneousGesture(
