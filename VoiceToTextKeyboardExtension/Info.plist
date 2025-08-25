@@ -20,5 +20,7 @@
 		<key>NSExtensionPrincipalClass</key>
 		<string>$(PRODUCT_MODULE_NAME).KeyboardViewController</string>
 	</dict>
+	<key>RequestsOpenAccess</key>
+	<true/>
 </dict>
 </plist>
