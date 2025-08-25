@@ -16,13 +16,14 @@ __🚀 Features__
 **🛠️ Setup Instructions**
 
 1. Clone the Repository
-git clone https://github.com/your-username/VoiceToTextKeyboard.git
+git clone [https://github.com/your-username/VoiceToTextKeyboard.git](https://github.com/vikashjaingarg04/VoiceToTextKeyboard)
+
 cd VoiceToTextKeyboard
 
-2. Open in Xcode
+3. Open in Xcode
 open VoiceToTextKeyboard.xcodeproj
 
-3. Add API Key
+4. Add API Key
 
 Create a file Config.plist in your project root.
 
