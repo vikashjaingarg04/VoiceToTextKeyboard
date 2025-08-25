@@ -16,7 +16,7 @@ __🚀 Features__
 **🛠️ Setup Instructions**
 
 1. Clone the Repository
-git clone [https://github.com/your-username/VoiceToTextKeyboard.git](https://github.com/vikashjaingarg04/VoiceToTextKeyboard)
+git clone [https://github.com/vikashjaingarg04/VoiceToTextKeyboard]
 
 cd VoiceToTextKeyboard
 
