@@ -369,11 +369,11 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = Y74W2UU3Y5;
+				DEVELOPMENT_TEAM = Y2U4AZBUR9;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = VoiceToTextKeyboard/Info.plist;
-				INFOPLIST_KEY_NSMicrophoneUsageDescription = "This keyboard needs microphone access for voice transcription.\n";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "This keyboard needs microphone access to transcribe your voice into text.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -384,7 +384,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.garg.VoiceToTextKeyboard;
+				PRODUCT_BUNDLE_IDENTIFIER = com.galgotias.VoiceToTextKeyboard;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -399,11 +399,11 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = Y74W2UU3Y5;
+				DEVELOPMENT_TEAM = Y2U4AZBUR9;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = VoiceToTextKeyboard/Info.plist;
-				INFOPLIST_KEY_NSMicrophoneUsageDescription = "This keyboard needs microphone access for voice transcription.\n";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "This keyboard needs microphone access to transcribe your voice into text.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -414,7 +414,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.garg.VoiceToTextKeyboard;
+				PRODUCT_BUNDLE_IDENTIFIER = com.galgotias.VoiceToTextKeyboard;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -427,7 +427,7 @@
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = Y74W2UU3Y5;
+				DEVELOPMENT_TEAM = Y2U4AZBUR9;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = VoiceToTextKeyboardExtension/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = VoiceToTextKeyboardExtension;
@@ -438,7 +438,7 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.garg.VoiceToTextKeyboard.VoiceToTextKeyboardExtension;
+				PRODUCT_BUNDLE_IDENTIFIER = com.galgotias.VoiceToTextKeyboard.VoiceToTextKeyb;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -452,7 +452,7 @@
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = Y74W2UU3Y5;
+				DEVELOPMENT_TEAM = Y2U4AZBUR9;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = VoiceToTextKeyboardExtension/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = VoiceToTextKeyboardExtension;
@@ -463,7 +463,7 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.garg.VoiceToTextKeyboard.VoiceToTextKeyboardExtension;
+				PRODUCT_BUNDLE_IDENTIFIER = com.galgotias.VoiceToTextKeyboard.VoiceToTextKeyb;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
